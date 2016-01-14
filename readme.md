@@ -13,7 +13,7 @@ To discover your drone(s):
 
 To run the demo:
 
-node drone_wheelsoff_keyboard.js
+node drone-wheelsoff-keyboard.js
 
 With debug: 
 
