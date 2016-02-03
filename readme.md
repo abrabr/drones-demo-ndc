@@ -17,7 +17,7 @@ node drone-wheelsoff-keyboard.js
 
 With debug: 
 
-DEBUG=rollingspider node drone_wheelsoff_keyboard.js
+DEBUG=rollingspider node drone-wheelsoff-keyboard.js
 
 Swarm: 
 
